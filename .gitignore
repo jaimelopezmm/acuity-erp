@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *.pyo
+*.$py.class
 
 # Entornos virtuales
 venv/
@@ -26,6 +27,7 @@ config.ini
 
 # Archivos de VS Code
 .vscode/
+.idea/
 
 # Archivos de PyCharm
 .idea/
